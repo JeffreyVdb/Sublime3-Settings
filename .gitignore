@@ -1,0 +1,11 @@
+###### sublime text ######
+*.cache
+*.bak
+Package Control.sublime-settings
+
+# Project files
+/*.sublime-project
+*.sublime-workspace
+sftp-config*.json
+Package Control.last-run
+Package Control.system-ca-bundle
